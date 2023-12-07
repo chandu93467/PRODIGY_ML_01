@@ -1,3 +1,0 @@
-Mean Squared Error: 5625000.0
-Coefficients: [25681.65013866 -1069.58393409  5398.48659811]
-Intercept: 267000.0
